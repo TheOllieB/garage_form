@@ -1,1 +1,1 @@
-"# snippets" 
+Some code snippets and mini projects
